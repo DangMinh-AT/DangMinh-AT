@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DangMinh-AT
+- 👋 Hi, I’m @DangMinh
 - 👀 I’m interested in set Python, C#...
 - 🌱 I’m currently learning Lac Hong University
 - 💞️ I’m looking to collaborate on Automation Technology
